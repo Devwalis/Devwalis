@@ -29,7 +29,7 @@
 
 
 <!-- Portfolio -->
-## Portfolio:
+
 
 
 <!-- GIF -->
