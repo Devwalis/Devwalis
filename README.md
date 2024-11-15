@@ -8,7 +8,7 @@
 <p>
   Hi 👋, I'm Walisson! A passionate Web developer student from Brazil.
 
-  - 🌱 I’m currently studying Web developer and systems development at Grau Técnico <img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
+  - 🌱 I’m currently studying Web developer and systems development at Grau Técnico 
 
   - 🔭 I am looking for my first job opportunity. My dream is to one day work with web 2.0 end 3.0
 </p>
