@@ -6,7 +6,7 @@
 
 <!-- Presentation -->
 <p>
-  Hi 👋, I'm Walisson! A passionate Web developer student from Brazil.
+  Hi 👋, I'm Walisson!  Web developer student from Brazil.
 
   - 🌱 I’m currently studying Web developer and systems development at Grau Técnico 
 
