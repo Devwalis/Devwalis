@@ -6,20 +6,27 @@
 
 <!-- Presentation -->
 <p>
-  Hi 👋, I'm Walisson!  Web developer student from Brazil.
+## 👋 Hi, I'm Walisson!
 
-  - 🌱 I’m currently studying Web developer and systems development at Grau Técnico 
+I'm a **Web Developer** and **Systems Analysis and Development student** from Brazil, passionate about building a solid career in technology.
 
-  - 🔭 I am looking for my first job opportunity. My dream is to one day work with web 2.0 end 3.0
-</p>
+- 🎓 I have a **technical degree in Systems Development** and I'm currently in the **2nd semester** of my **college degree in Systems Analysis and Development**.  
+- 🚀 I’m constantly pursuing **new certifications**, improving my skills in **SQL, Python, Java, Spring Boot, and PostgreSQL**.  
+- 💡 I love challenging myself to learn more every day and retain as much technical knowledge as possible.  
+- 🌍 My dream is to work with **Web 2.0 and Web 3.0 technologies**, contributing to innovative and impactful projects.  
+- 💬 I’m looking for my **first professional opportunity** to apply my knowledge and grow alongside a great team.
 
-<!-- Dropdown -->
+---
+
 <details>
   <summary>👨‍💻 More about me</summary>
 
-  - 💬 I am 27 years old, currently living in Brazil. I have basic in English and have experience with SQL, Python, Java, Spring boot, and Postgres. , which helped me develop important skills such as creativity, communication, marketing, analytical capability, community and social media management.
+  - 🇧🇷 I'm 28 years old and currently living in Brazil.  
+  - 📚 I’m interested in **software architecture, back-end development**, and **emerging web technologies**.  
+  - ⚡ I enjoy reading — whether it’s books, manga, or comics — and I’m also into movies and gaming!  
+  - 🎯 I believe curiosity, creativity, and persistence are key to problem-solving and innovation.  
+</details>
 
-  - ⚡ I enjoy reading, whether it's a good book, manga, or comics, as well as watching movies and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving. \o/
 </details>
 
 <!-- Links -->
