@@ -30,13 +30,12 @@ I'm a **Web Developer** and **Systems Analysis and Development student** from Br
 </details>
 
 <!-- Links -->
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dev_walii_oliveira/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/walisson-oliveira-4a3234279/)
 
 
 
 <!-- Portfolio -->
-
+  https://devwalis.github.io/portifolio/
 
 
 <!-- GIF -->
