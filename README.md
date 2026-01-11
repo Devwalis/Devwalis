@@ -1,75 +1,128 @@
-<!--título-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hello World</h1></summary>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=22C55E&center=true&vCenter=true&width=500&lines=Hello+World!;I'm+Walisson+Oliveira;Web+Developer+%26+Student" alt="Typing SVG" />
 </div>
 
-<!-- Presentation -->
-<p>
- 👋 Hi, I'm Walisson!
+---
+
+## 👋 Hi, I'm Walisson!
 
 I'm a **Web Developer** and **Systems Analysis and Development student** from Brazil, passionate about building a solid career in technology.
 
-- 🎓 I have a **technical degree in Systems Development** and I'm currently in the **2nd semester** of my **college degree in Systems Analysis and Development**.  
-- 🚀 I’m constantly pursuing **new certifications**, improving my skills in **SQL, Python, Java, Spring Boot,PostgreSQL, Aws and Computing Cloud**.  
-- 💡 I love challenging myself to learn more every day and retain as much technical knowledge as possible.  
-- 🌍 My dream is to work with **Web 2.0 and Web 3.0 technologies**, contributing to innovative and impactful projects.  
-- 💬 I’m looking for my **first professional opportunity** to apply my knowledge and grow alongside a great team.
+- 🎓 Technical degree in **Systems Development**  
+- 📚 Currently in the **2nd semester** of **Systems Analysis and Development**  
+- 🚀 Studying **SQL, Python, Java, Spring Boot, PostgreSQL, AWS & Cloud Computing**  
+- 💡 Constantly pursuing new certifications and challenges  
+- 🌍 Interested in **Web 2.0 and Web 3.0 technologies**  
+- 💬 Looking for my **first professional opportunity**
 
 ---
 
 <details>
-  <summary>👨‍💻 More about me</summary>
+  <summary><strong>👨‍💻 More about me</strong></summary>
 
-  - 🇧🇷 I'm 28 years old and currently living in Brazil.  
-  - 📚 I’m interested in **software architecture, back-end development**, and **emerging web technologies**.  
-  - ⚡ I enjoy reading — whether it’s books, manga, or comics — and I’m also into movies and gaming!  
-  - 🎯 I believe curiosity, creativity, and persistence are key to problem-solving and innovation.  
+  <ul>
+    <li>🇧🇷 28 years old, living in Brazil</li>
+    <li>📚 Interested in software architecture and backend development</li>
+    <li>⚡ Enjoy books, manga, movies and games</li>
+    <li>🎯 Believe curiosity and persistence drive innovation</li>
+  </ul>
 </details>
 
-</details>
+---
 
-<!-- Links -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/walisson-oliveira-4a3234279/)
-
-
-
-<!-- Portfolio -->
-  https://devwalis.github.io/portifolio/
-
-
-<!-- GIF -->
-<p align="left">
-  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
+<p align="center">
+  <a href="https://www.linkedin.com/in/walisson-oliveira-4a3234279/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
 </p>
 
+---
+
+## 🚀 Projects I've Developed
+
+### 🧑‍🤝‍🧑 Projeto Social CDD 4.0 – Dia das Crianças
+**Description:**  
+Social project developed during the CDD 4.0 program, focused on community engagement for Children's Day.
+
+**Technologies:**  
+HTML • CSS • JavaScript  
+
+**Live Page:**  
+🔗 https://ame-uma-crian-a-cdd.vercel.app  
+
+**Repository:**  
+🔗 https://github.com/Devwalis/AmeUmaCrian-aCDD  
+
+**Contribution:**  
+👥 Collaborative — with [Caio Marinho](https://github.com/Caio-Marinho)
+
+---
+
+### 🎨 Front-end Practice — Parallax Effects
+**Description:**  
+Frontend practice project exploring parallax effects and responsive design.
+
+**Technologies:**  
+HTML • CSS • JavaScript  
+
+**Live Page:**  
+🔗 https://devwalis.github.io/paralax/k  
+
+**Repository:**  
+🔗 https://github.com/Devwalis/paralax  
+
+**Contribution:**  
+👤 Solo project
+
+---
+
+### 📚 Raízes da Educação
+**Description:**  
+Educational platform developed as a collaborative academic project using agile methodologies.
+
+**Technologies:**  
+Django • HTML • CSS • JavaScript  
+
+**Live Page:**  
+🔗 *(add link)*  
+
+**Repository:**  
+🔗 https://github.com/meloim/raizes-edu
+
+**Contribution:**  
+👥 Collaborative with [Matheus Eloim ](https://github.com/meloim)
+
+---
+
+## 🌐 Portfolio
+🔗 https://devwalis.github.io/portifolio/
+
+---
+
+<p align="center">
+  <img src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" width="500">
+</p>
+
+---
+
 ## 🔥 Skills
-<!-- Skills: Programming Languages -->
-  <div style="flex-basis: 48%;">
-    <h3>Programming Languages</h3>
-    <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="Java" height="30" width="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-    <img align="center" alt="AWS" height="30" width="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
-    <img align="center" alt="MySQL" height="30" width="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-    <img align="center" alt="DynamoDB" height="30" width="40"src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/amazondynamodb.svg">
-    <img align="center" alt="Spring Boot" height="30" width="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
 
+### 💻 Programming Languages & Technologies
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" height="35"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="35"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="35"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="35"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="35"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" height="35"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="35"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" height="35"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/amazondynamodb.svg" height="35"/>
+</p>
 
-
-
-
-  </div>
-  
-  <!-- Skills: Tools & Frameworks -->
-  <div style="flex-basis: 48%;">
-    <h3>Tools & Frameworks</h3>
-    <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-    <img align="center" alt="Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg">
-    <img align="center" alt="Bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
-  </div>
-  
-  <!-- Skills: Libraries -->
-  
+### 🛠 Tools & Environments
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="35"/>
+</p>
