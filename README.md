@@ -11,7 +11,7 @@
 I'm a **Web Developer** and **Systems Analysis and Development student** from Brazil, passionate about building a solid career in technology.
 
 - 🎓 I have a **technical degree in Systems Development** and I'm currently in the **2nd semester** of my **college degree in Systems Analysis and Development**.  
-- 🚀 I’m constantly pursuing **new certifications**, improving my skills in **SQL, Python, Java, Spring Boot, and PostgreSQL**.  
+- 🚀 I’m constantly pursuing **new certifications**, improving my skills in **SQL, Python, Java, Spring Boot,PostgreSQL, Aws and Computing Cloud**.  
 - 💡 I love challenging myself to learn more every day and retain as much technical knowledge as possible.  
 - 🌍 My dream is to work with **Web 2.0 and Web 3.0 technologies**, contributing to innovative and impactful projects.  
 - 💬 I’m looking for my **first professional opportunity** to apply my knowledge and grow alongside a great team.
@@ -51,6 +51,15 @@ I'm a **Web Developer** and **Systems Analysis and Development student** from Br
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img align="center" alt="Java" height="30" width="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+    <img align="center" alt="AWS" height="30" width="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
+    <img align="center" alt="MySQL" height="30" width="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+    <img align="center" alt="DynamoDB" height="30" width="40"src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/amazondynamodb.svg">
+    <img align="center" alt="Spring Boot" height="30" width="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+
+
+
+
 
   </div>
   
