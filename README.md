@@ -66,7 +66,7 @@ Frontend practice project exploring parallax effects and responsive design.
 HTML • CSS • JavaScript  
 
 **Live Page:**  
-🔗 https://devwalis.github.io/paralax/k  
+🔗 https://devwalis.github.io/paralax/  
 
 **Repository:**  
 🔗 https://github.com/Devwalis/paralax  
